@@ -1,0 +1,5 @@
+{
+  "name": "MNIST Digit Digitizer Case Study",
+  "description": "An interactive case study on CNN-based digit classification for banking automation, featuring architecture visualization, feature map analysis, and performance comparisons.",
+  "requestFramePermissions": []
+}
